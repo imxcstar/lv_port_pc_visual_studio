@@ -1634,3 +1634,4 @@ lv_group_set_focus_cb
 lv_group_set_refocus_policy
 lv_group_set_wrap
 lv_group_swap_obj
+lv_tiny_ttf_create_data
